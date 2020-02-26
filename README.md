@@ -1,4 +1,4 @@
-# TelloPython
+# TelloPython (Tested on Windows 7/10)
 
 ## Tello Face Recognition Follow Mode
 Clone/Download all the files in the repository. Having all the files on the same folder run FollowFace.py.
